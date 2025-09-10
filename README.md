@@ -22,7 +22,7 @@
 ```
 ## ⭐ Öne Çıkan Projeler
 
-### [SoftGirl - Kişisel Web Sitem](scintillating-vacherin-af5dbd.netlify.app)
+### [SoftGirl - Kişisel Web Sitem](jocular-pasca-4d6470.netlify.app)
 
 *Kişisel marka web sitem.Html + Css + JavaScript ile yapıldı.*
 
@@ -49,6 +49,6 @@ Bu repo MIT lisansı ile lisanslanmıştır — kendi projelerinde uygun lisans 
 
 * Email: `colakpelin8@gmail.com`
 * LinkedIn: `linkedin.com/in/zeynep-pelin-çolak-880306198`
-* Web: `scintillating-vacherin-af5dbd.netlify.app`
+* Web: `jocular-pasca-4d6470.netlify.app`
 
 ---
