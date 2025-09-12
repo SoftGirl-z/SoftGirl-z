@@ -22,7 +22,7 @@
 ```
 ## ⭐ Öne Çıkan Projeler
 
-### [SoftGirl - Kişisel Web Sitem]([jocular-pasca-4d6470.netlify.app](https://jocular-pasca-4d6470.netlify.app/))
+### [SoftGirl - Kişisel Web Sitem](https://jocular-pasca-4d6470.netlify.app/)
 
 *Kişisel marka web sitem.Html + Css + JavaScript ile yapıldı.*
 
