@@ -4,7 +4,8 @@
 
 **Yazılım Mühendisliği öğrencisi · SoftGirl · Web & Oyun Geliştiricisi**
 
-> Yazılım mühendisliği öğrencisiyim. Web ve oyun geliştirme üzerine çalışıyorum. Arduino, Node-RED ve küçük oyun projeleri ile ilgileniyorum. SoftGirl markam altında eğitim ve eğlence odaklı içerikler üretiyorum.
+> Yazılım mühendisliği öğrencisiyim. Web ve oyun geliştirme üzerine çalışıyorum.
+> Arduino, Node-RED ve küçük oyun projeleri ile ilgileniyorum. SoftGirl markam altında eğitim ve eğlence odaklı içerikler üretiyorum.
 
 ---
 
