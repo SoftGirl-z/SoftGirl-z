@@ -1,55 +1,89 @@
-# 👋 Merhaba! 
+<h1 align="center">🌸 Hey, I'm Zeynep Pelin Çolak 👋</h1>
+<h3 align="center">Frontend Developer • Creative Tech Builder • SoftGirl Studio</h3>
 
-# Zeynep Pelin Çolak 💫
-
-**Yazılım Mühendisliği öğrencisi · SoftGirl · Web & Oyun Geliştiricisi**
-
-> Yazılım mühendisliği öğrencisiyim. Web ve oyun geliştirme üzerine çalışıyorum.
-> Arduino, Node-RED ve küçük oyun projeleri ile ilgileniyorum. SoftGirl markam altında eğitim ve eğlence odaklı içerikler üretiyorum.
-
----
-
-## 🚀 Teknolojiler & Araçlar
-
-* **Frontend:** HTML, CSS, JavaScript, React
-* **Backend:** Node.js, Express, Python 
-* **Oyun:** Phaser / Unity 
-* **IoT / Embedded:** Arduino, Node-RED
-* **Araçlar:** Git, GitHub, VS Code
-
-
-```
-![Profile views](https://komarev.com/ghpvc/?username=SoftGirl-z)
-```
-## ⭐ Öne Çıkan Projeler
-
-### [SoftGirl - Kişisel Web Sitem](https://jocular-pasca-4d6470.netlify.app/)
-
-*Kişisel marka web sitem.Html + Css + JavaScript ile yapıldı.*
+<p align="center">
+  Passionate about turning ideas into beautiful, fast, and modern web experiences.  
+  I love building things that look good *and* work even better.  
+</p>
 
 ---
 
-## 🤝 Katkıda Bulunmak İstersen
+## ✨ About Me
 
-1. Repo'yu fork'la
-2. Yeni bir branch aç: `git checkout -b feature/ad`
-3. Değişiklikleri commit et: `git commit -m "Açıklayıcı mesaj"`
-4. Pull request gönder
+I'm a **Frontend Developer** focused on React, JavaScript, and clean UI/UX design.  
+I enjoy creating interactive interfaces, small web games, animations, and user-friendly tools under my creative brand: **SoftGirl Studio**.
 
-Basit dokümantasyon düzeltmeleri bile çok yardımcı olur.
+I build projects that combine **technology + aesthetics**, and I'm currently seeking **remote junior opportunities** where I can grow, contribute, and continue learning every day.
 
 ---
 
-## 📜 Lisans
+## 🛠️ Tech Stack & Tools
 
-Bu repo MIT lisansı ile lisanslanmıştır — kendi projelerinde uygun lisans eklemeyi unutma.
+### **Frontend**
+- React • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind  
+- Responsive Design • UI/UX • Component Architecture
+
+### **Backend / Tools**
+- Node.js • Express • REST APIs  
+- Firebase • Git • VS Code  
+- Python (basic scripting)
+
+### **Creative Tools**
+- Figma • Canva • SoftGirl Design System 🎀
 
 ---
 
-## ✉️ İletişim
+## 🚀 Featured Projects
 
-* Email: `colakpelin8@gmail.com`
-* LinkedIn: `linkedin.com/in/zeynep-pelin-çolak-880306198`
-* Web: `jocular-pasca-4d6470.netlify.app`
+### 🌐 **SoftGirl Personal Website**
+A modern, responsive portfolio built with HTML, CSS, and JavaScript — representing my brand identity.  
+⭐ *Live:* https://…  
+⭐ *Repo:* `softgirl-website`
 
 ---
+
+### 🎮 **Color Tap Rush**
+Fast-paced browser game that tests reflexes.  
+Built with HTML + CSS + JS, featuring animations and dynamic scoring.
+
+---
+
+### 🎄 **SoftGirl Christmas Tree Animation**
+A fun interactive holiday animation created with CSS & JavaScript.  
+Click anywhere for a special message! ✨
+
+---
+
+### 🧪 **Drone Simulation**
+A Python project simulating drone movement, physics, and control inputs.  
+Shows problem-solving ability and technical curiosity.
+
+---
+
+### 🩺 **Client Tracking Web System**
+A full system designed for wellness/physiotherapy studios.  
+Includes session management, payments, and client profiles.  
+*Frontend + system logic by SoftGirl Studio.*
+
+---
+
+## 🌍 What I'm Looking For
+
+- **Remote Junior Frontend Developer roles**  
+- Teams that value creativity, clean code, and UI/UX  
+- Opportunities to contribute to real products and grow as a developer  
+
+If you're building something exciting — I’d love to be part of it! 💗
+
+---
+
+## 📫 Let's Connect
+
+📍 Turkey / Cyprus  
+🔗 LinkedIn: https://www.linkedin.com/in/zeynep-pelin-çolak-880306198/  
+🖤 Instagram (SoftGirl): @softgirl-zpc  
+📧 Email: colakpelin@gmail.com  
+
+---
+
+<p align="center">🌸 Made with love & clean code — SoftGirl Studio 🌸</p>
